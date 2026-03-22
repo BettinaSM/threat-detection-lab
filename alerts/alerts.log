@@ -1,0 +1,2 @@
+ALERT: Possible brute force attack
+ALERT: Unauthorized sudo attempt
