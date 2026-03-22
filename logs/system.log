@@ -1,0 +1,8 @@
+Mar 10 09:00:01 server CRON[123]: Job started
+Mar 10 09:05:10 server systemd[1]: Started Session 101 of user root
+Mar 10 09:10:15 server kernel: CPU usage high: 92%
+Mar 10 09:10:20 server kernel: Possible resource exhaustion detected
+Mar 10 09:15:30 server sshd[222]: Connection closed by 192.168.1.10
+Mar 10 09:20:00 server systemd[1]: Stopping User Manager for UID 0
+Mar 10 09:25:45 server kernel: Out of memory: Kill process 567 (java)
+Mar 10 09:30:10 server sudo[333]: user1 : command not allowed
