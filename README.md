@@ -1,12 +1,12 @@
 # 🔐 Threat Detection Lab
 
-## 🔍 Overview
+##  Overview
 
 This project simulates threat detection in Linux environments using log analysis and basic detection rules.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Detect brute force login attempts  
 - Identify unauthorized privilege escalation  
@@ -14,7 +14,7 @@ This project simulates threat detection in Linux environments using log analysis
 
 ---
 
-## 📜 Logs Analyzed
+##  Logs Analyzed
 
 - Authentication logs  
 - System logs  
@@ -22,7 +22,7 @@ This project simulates threat detection in Linux environments using log analysis
 
 ---
 
-## 🚨 Detection Scenarios
+##  Detection Scenarios
 
 ### 1. Brute Force Attack
 Multiple failed login attempts detected
@@ -32,13 +32,13 @@ Unauthorized sudo usage identified
 
 ---
 
-## ⚙️ Detection Logic
+##  Detection Logic
 
 Basic rules are applied using shell scripts to simulate security monitoring.
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Log analysis for security  
 - Detection of suspicious behavior  
@@ -46,7 +46,7 @@ Basic rules are applied using shell scripts to simulate security monitoring.
 
 ---
 
-## 🔐 Security Perspective
+##  Security Perspective
 
 This lab simulates how security teams detect:
 
@@ -56,6 +56,6 @@ This lab simulates how security teams detect:
 
 ---
 
-## 💡 Key Takeaway
+##  Key Takeaway
 
 Security monitoring is based on identifying patterns in logs and correlating events to detect threats.
